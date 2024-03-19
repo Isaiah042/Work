@@ -17,7 +17,7 @@ public class Alice {
                 System.out.println("Welcome Bob");
                 break;
             } else {
-                System.out.println("Try A");
+                System.out.println("Try Again");
             }
         } while (true);
         scan.close();
